@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a basic recipe website which will consist of a main index page which will have links to a few recipes. It will first be written in HTML and then I'll revisit it with CSS.
