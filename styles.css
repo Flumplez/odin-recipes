@@ -1,8 +1,11 @@
 div {
     color: rgb(0, 0, 0);
-    background-color: rgb(138, 210, 223);
   }
   
   p {
     color: red;
+  }
+
+  fullback  {
+      background-color: aqua;
   }
